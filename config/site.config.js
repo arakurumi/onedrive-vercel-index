@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: 'https://telegra.ph/file/7e7fe8c105bacd551a099.jpg',
+  icon: '/icons.jpg',
 
   // The name of your website. Present alongside your icon.
   title: "Sekai Cloud",
