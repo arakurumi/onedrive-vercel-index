@@ -49,7 +49,11 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Google Drive',
+      name: '🥺Donate',
+      link: 'https://trakteer.id/kqrumi/tip',
+    },
+    {
+      name: 'Index GDrive',
       link: 'https://sekai.cloud',
     },
     {
