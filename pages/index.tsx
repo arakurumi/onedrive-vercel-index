@@ -13,7 +13,7 @@ export default function Home() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-white dark:bg-gray-900">
       <Head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6817636686707403"
-     crossorigin="anonymous"></script>
+     crossOrigin="anonymous"></script>
         <title>{siteConfig.title}</title>
       </Head>
 
